@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sultan Kernel for the Pixel 7/Pro and 7a
+kernel.string=miumiu kernel 4 pixel 7a, 7 and 7 pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
